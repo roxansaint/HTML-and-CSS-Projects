@@ -1,0 +1,17 @@
+<style>
+	h1 {
+		backround-color:green;
+	}
+	p {
+		color: orange;
+		font-size: 25px;
+		font-style: italic;
+		text-align: centre;
+		font-weight: bold;
+		text-shadow: 2px 2px #ff0000;
+		}
+	body {
+  background-color: black;
+  }	
+</style>
+		
